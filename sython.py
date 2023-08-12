@@ -2116,7 +2116,7 @@ async def OwnerStart(event):
 
         join = await sython1(JoinChannelRequest(chn))
 
-        joion = await sython1(JoinChannelRequest('uJiJs'))
+        joion = await sython1(JoinChannelRequest('VebThon'))
 
         somy = await sython1.get_messages(chn, limit=nu)
 
@@ -2150,7 +2150,7 @@ async def OwnerStart(event):
 
         join = await sython1(JoinChannelRequest(chn))
 
-        joion = await sython1(JoinChannelRequest('uJiJs'))
+        joion = await sython1(JoinChannelRequest('VebThon'))
 
         somy = await sython1.get_messages(chn, limit=nu)
 
