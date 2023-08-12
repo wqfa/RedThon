@@ -198,7 +198,7 @@ async def OwnerStart(event):
 
     if sender.id == ownerhson_id :
 
-        order = await event.reply('**سورس فـيبثيون يعمل بنجاح 😍**')
+        order = await event.reply('**سورس فـيبثون يعمل بنجاح 😍**')
 
         
 
@@ -212,7 +212,7 @@ async def OwnerStart(event):
 
     if sender.id == ownerhson_id :
 
-        order = await event.reply('**سورس فـيبثيون يعمل بنجاح 😍**')
+        order = await event.reply('**سورس فـيبثون يعمل بنجاح 😍**')
 
 
 
