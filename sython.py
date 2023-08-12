@@ -1538,7 +1538,7 @@ async def OwnerStart(event):
 
                 channel_entity = await sython1.get_entity(pot)
 
-                await sython1.send_message(pot, '**جاري بدأ عملية التجميع بواسطة سورس فـيبثيون☺**')
+                await sython1.send_message(pot, '**جاري بدأ عملية التجميع بواسطة سورس فـيبثون 🤖**')
 
                 await sython1.send_message(pot, '/start')
 
