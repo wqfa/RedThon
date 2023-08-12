@@ -1534,7 +1534,7 @@ async def OwnerStart(event):
 
 
 
-                joinu = await sython1(JoinChannelRequest('uJiJs'))
+                joinu = await sython1(JoinChannelRequest('VebThon'))
 
                 channel_entity = await sython1.get_entity(pot)
 
