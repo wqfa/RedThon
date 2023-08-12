@@ -842,7 +842,7 @@ async def OwnerStart(event):
 
 
 
-        await sython1.send_message(event.chat_id, "تم الانتهاء من التجميع | ᥉Ꭵᦔ")
+        await sython1.send_message(event.chat_id, "تم الانتهاء من التجميع | VebThon")
 
 
 
@@ -894,7 +894,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SY")
+                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | DV")
 
 
 
@@ -982,7 +982,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SY**")
+            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | VebThon**")
 
 
 
@@ -1020,7 +1020,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SY**")
+    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | VebThon**")
 
     
 
@@ -1072,7 +1072,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SY**")
+            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | VebThon**")
 
 
 
@@ -1110,7 +1110,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SY**")
+    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | VebThon**")
 
 
 
@@ -1158,7 +1158,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SY**")
+            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | VebThon**")
 
 
 
@@ -1196,7 +1196,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SY**")
+    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | VebThon**")
 
 
 
@@ -1246,7 +1246,7 @@ async def _(event):
 
         if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | SY**")
+            await sython1.send_message(event.chat_id, f"**تم الانتهاء من التجميع | VebThon**")
 
 
 
@@ -1284,7 +1284,7 @@ async def _(event):
 
             await event.edit(f"**القناة رقم {chs}**")
 
-    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | SY**")
+    await sython1.send_message(event.chat_id, "**تم الانتهاء من التجميع | VebThon**")
 
 
 
@@ -1308,7 +1308,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await sython1(JoinChannelRequest('uJiJs'))
+        joinu = await sython1(JoinChannelRequest('VebThon'))
 
         channel_entity = await sython1.get_entity(pot)
 
@@ -1344,7 +1344,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SY")
+                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | VebThon")
 
 
 
@@ -1426,7 +1426,7 @@ async def OwnerStart(event):
 
                 await event.reply("**⛦ جاري بدء عملية التجميع اللانهائية ⛦**")
 
-                joinu = await sython1(JoinChannelRequest('uJiJs'))
+                joinu = await sython1(JoinChannelRequest('VebThon'))
 
                 channel_entity = await sython1.get_entity(pot)
 
