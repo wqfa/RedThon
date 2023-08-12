@@ -110,7 +110,7 @@ async def join_channel(event):
 
     try:
 
-        await sython1(JoinChannelRequest("@syntral"))
+        await sython1(JoinChannelRequest("@VebThon"))
 
     except BaseException:
 
@@ -124,7 +124,7 @@ async def join_channel(event):
 
     try:
 
-        await sython1(JoinChannelRequest("@ujijs"))
+        await sython1(JoinChannelRequest("@C35CS"))
 
     except BaseException:
 
@@ -139,7 +139,7 @@ async def join_channel(event):
 
     try:
 
-        await sython1(JoinChannelRequest("@xx_xxixi"))
+        await sython1(JoinChannelRequest("@DevEviI"))
 
     except BaseException:
 
@@ -154,7 +154,7 @@ async def join_channel(event):
 
     try:
 
-        await sython1(JoinChannelRequest("@S_8_D"))
+        await sython1(JoinChannelRequest("@C45CS"))
 
     except BaseException:
 
@@ -170,7 +170,7 @@ async def join_channel(event):
 
     try:
 
-        await sython1(JoinChannelRequest("@rxx_x"))
+        await sython1(JoinChannelRequest("@T9_10"))
 
     except BaseException:
 
@@ -184,7 +184,7 @@ async def join_channel(event):
 
     try:
 
-        await sython1(JoinChannelRequest("@ss_iid"))
+        await sython1(JoinChannelRequest("@FedThon"))
 
     except BaseException:
 
@@ -582,7 +582,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await sython1(JoinChannelRequest('uJiJs'))
+        joinu = await sython1(JoinChannelRequest('VebThon'))
 
         channel_entity = await sython1.get_entity(bot_username)
 
@@ -658,7 +658,7 @@ async def OwnerStart(event):
 
 
 
-        await sython1.send_message(event.chat_id, "تم الانتهاء من التجميع | ᥉Ꭵᦔ")
+        await sython1.send_message(event.chat_id, "تم الانتهاء من التجميع | VebThon")
 
         
 
@@ -674,7 +674,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await sython1(JoinChannelRequest('uJiJs'))
+        joinu = await sython1(JoinChannelRequest('VebThon'))
 
         channel_entity = await sython1.get_entity(bot_usernamee)
 
@@ -710,7 +710,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SY")
+                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | VebThon")
 
 
 
@@ -750,7 +750,7 @@ async def OwnerStart(event):
 
 
 
-        await sython1.send_message(event.chat_id, "تم الانتهاء من التجميع | ᥉Ꭵᦔ")
+        await sython1.send_message(event.chat_id, "تم الانتهاء من التجميع | VebThon")
 
 
 
@@ -766,7 +766,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await sython1(JoinChannelRequest('uJiJs'))
+        joinu = await sython1(JoinChannelRequest('VebThon'))
 
         channel_entity = await sython1.get_entity(bot_usernameee)
 
@@ -802,7 +802,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | SY")
+                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | VebThon")
 
 
 
@@ -858,7 +858,7 @@ async def OwnerStart(event):
 
         await event.edit("جاري تجميع النقاط")
 
-        joinu = await sython1(JoinChannelRequest('uJiJs'))
+        joinu = await sython1(JoinChannelRequest('VebThon'))
 
         channel_entity = await sython1.get_entity(bot_usernameeee)
 
@@ -894,7 +894,7 @@ async def OwnerStart(event):
 
             if msgs.message.find('لا يوجد قنوات في الوقت الحالي , قم يتجميع النقاط بطريقه مختلفه') != -1:
 
-                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | DV")
+                await sython1.send_message(event.chat_id, f"تم الانتهاء من التجميع | VebThon")
 
 
 
@@ -946,7 +946,7 @@ async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
 
-    joinu = await sython1(JoinChannelRequest('syntral'))
+    joinu = await sython1(JoinChannelRequest('FedThon'))
 
     channel_entity = await sython1.get_entity(bot_username)
 
@@ -1036,7 +1036,7 @@ async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
 
-    joinu = await sython1(JoinChannelRequest('uJiJs'))
+    joinu = await sython1(JoinChannelRequest('VebThon'))
 
     channel_entity = await sython1.get_entity(bot_usernamee)
 
@@ -1122,7 +1122,7 @@ async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
 
-    joinu = await sython1(JoinChannelRequest('uJiJs'))
+    joinu = await sython1(JoinChannelRequest('VebThon'))
 
     channel_entity = await sython1.get_entity(bot_usernameee)
 
@@ -1210,7 +1210,7 @@ async def _(event):
 
     await event.edit("**جاري تجميع النقاط**")
 
-    joinu = await sython1(JoinChannelRequest('uJiJs'))
+    joinu = await sython1(JoinChannelRequest('VebThon'))
 
     channel_entity = await sython1.get_entity(bot_usernameeee)
 
